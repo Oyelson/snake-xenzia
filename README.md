@@ -1,4 +1,4 @@
-# [Snake Xenzia][snake-zenzia-link]
+# [Snake Xenzia][snake-xenzia-link]
 
 Feautures:
 1. Desktop mode:

@@ -1,13 +1,13 @@
 # Snake Xenzia
 
 Feautures:
-1. Desktop:
+1. Desktop mode:
   > * Play or Pause the game with the "Space-bar" key if game is on
   > * Replay game with the "Enter key" or "Space-bar" key
   > * Allow or disallow snake to pass through field boundary with the "P" key or with one of the buttons at the bottom right
   > * Mute or unmute game sound with the "M" key or with one of the buttons at the bottom right
 
-2. Mobile:
+2. Mobile mode:
   > * Game pad for movement
   > * Double click game field to pause or play the game on mobile
   > * Vibration enabled to simulate pad press and game over

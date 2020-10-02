@@ -1,4 +1,4 @@
-# Snake Xenzia
+# [Snake Xenzia][snake-zenzia-link]
 
 Feautures:
 1. Desktop mode:
@@ -23,4 +23,4 @@ Feautures:
   > * Automatic game pause when you leave the browser
   > * Game speed increases per food eaten
 
-[snake-xenzia-line]: https://jeto-games.netlify.app/#/snake-xenzia
+[snake-xenzia-link]: https://jeto-games.netlify.app/#/snake-xenzia

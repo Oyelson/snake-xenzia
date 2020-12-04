@@ -1,4 +1,4 @@
-#  Snake Xenzia: [Play][snake-xenzia-link]
+#  Snake Xenzia: [Play][snake-xenzia-link] OR [View Code][snake-xenzia-code]
 
 Feautures:
 1. Desktop mode:
@@ -24,3 +24,4 @@ Feautures:
   > * Game speed increases per food eaten
 
 [snake-xenzia-link]: https://jeto-games.netlify.app/#/snake-xenzia
+[snake-xenzia-code]: https://github.com/jeto-dbl/jeto-games
